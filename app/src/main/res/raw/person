@@ -1,0 +1,20 @@
+
+{
+    "fristName":"Lily",
+    "LastName":"Kaer",
+    "information":{
+        "school":"北京阳光中学",
+        "home":"北京小区",
+        "stree":"人民路81号"
+    },
+    "phone":[
+    {
+       "phone":"1234567",
+       "mobilePhone":"79889"
+    },
+    {
+         "phone":"22222666",
+         "mobilePhone":"999333366"
+    }
+    ]
+}

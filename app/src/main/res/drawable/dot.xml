@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_enabled="true" android:drawable="@drawable/timg2"></item>
+    <!--激活使用@drawable/timg2图片 颜色浅一些的-->
+    <item android:state_enabled="false" android:drawable="@drawable/timg"></item>
+    <!--非激活使用@drawable/timg图片 颜色深一些的-->
+</selector>
